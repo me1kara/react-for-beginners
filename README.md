@@ -1,7 +1,22 @@
-# installed npm package
+## Installed Packages
 
-npm i prop-types
-npm i react-router-dom
-npm i gh-pages
+- **prop-types**: Runtime type checking for React props.
+  ```sh
+  npm i prop-types
+  ```
+- **react-router-dom**: Routing library for React applications.
+  ```sh
+  npm i react-router-dom
+  ```
+- **gh-pages**: Used for deploying the app to GitHub Pages.
+  ```sh
+  npm i gh-pages
+  ```
 
+## Deployment
+
+To deploy the application to GitHub Pages, run:
+```sh
+npm run deploy
+```
 
